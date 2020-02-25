@@ -215,7 +215,7 @@
                             </a>
                         </h4>
                         <div class="">
-                            Materi, Penugasan, Daftar Nilai
+                            Materi & Tugas
                         </div>
                     </div>
                     <div class="card-read-more">
@@ -237,7 +237,7 @@
                             </a>
                         </h4>
                         <div class="">
-                            RPP, Materi, Penugasan & Penilaian
+                            Materi, Modul & Penugasan
                         </div>
                     </div>
                     <div class="card-read-more">
