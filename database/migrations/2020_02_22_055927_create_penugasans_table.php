@@ -19,6 +19,8 @@ class CreatePenugasansTable extends Migration
             $table->string('mapel');
             $table->string('semester');        
             $table->string('pertemuan_ke');
+            $table->string('detail', 2000);
+            $table->timestamps('pengumpulan_terakhir');
             $table->timestamps();
         });
     }
